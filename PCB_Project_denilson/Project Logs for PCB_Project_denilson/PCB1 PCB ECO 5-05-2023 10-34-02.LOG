@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=TX Pin=J6-1
+Removed Pin From Net: NetName=RX Pin=J6-2
+Removed Pin From Net: NetName=SCL0 Pin=J7-1
+Removed Pin From Net: NetName=SDA0 Pin=J7-2
+Removed Pin From Net: NetName=+5v Pin=J8-1
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Member From Class: ClassName=Sheet1 Member=J6
+Removed Member From Class: ClassName=Sheet1 Member=J7
+Removed Member From Class: ClassName=Sheet1 Member=J8
+Change Component Footprint: Designator=J1 Old Footprint=MSTBF_2 New Footprint=TBG_8
+Change Component Comment : Designator=J1 Old Comment=? New Comment=CONN_TB8
+Change component parameters: Designator = "J1" ("J1"); Footprint = "MSTBF_2"; UniqueID = "\OJWPQAZQ" ("\OJWPQAZQ")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "CONN_TB8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX Pin=J1-3
+Added Pin To Net: NetName=RX Pin=J1-4
+Added Pin To Net: NetName=SCL0 Pin=J1-5
+Added Pin To Net: NetName=SDA0 Pin=J1-6
+Added Pin To Net: NetName=+5v Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8

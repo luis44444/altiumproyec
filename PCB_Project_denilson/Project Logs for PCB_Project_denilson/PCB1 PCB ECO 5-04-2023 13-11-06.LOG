@@ -1,0 +1,4 @@
+Added Component: Designator=MOD2(HDR_F_1X5)
+Added Component: Designator=MOD3(HDR_F_1X6)
+Added Member To Class: ClassName=Sheet1 Member=Component MOD2 MHZ19B
+Added Member To Class: ClassName=Sheet1 Member=Component MOD3 BME280

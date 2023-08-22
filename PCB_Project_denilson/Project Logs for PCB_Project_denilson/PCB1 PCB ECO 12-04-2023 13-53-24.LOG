@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=SCL Pin=J?-3
+Removed Pin From Net: NetName=SDA Pin=J?-4
+Change Component Footprint: Designator=J? Old Footprint=MSTBF_4 New Footprint=MSTBF_2
+Added Pin To Net: NetName=SCL Pin=J?-1
+Added Pin To Net: NetName=SDA Pin=J?-2
+Added Pin To Net: NetName=GND Pin=MOD1-14
+Added Pin To Net: NetName=+5v Pin=MOD1-15
+Added Pin To Net: NetName=+5v Pin=MOD2-4
+Added Pin To Net: NetName=+5v Pin=MOD3-1

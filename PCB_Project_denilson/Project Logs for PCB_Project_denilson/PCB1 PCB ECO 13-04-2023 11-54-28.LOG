@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=SCL0 Pin=MOD1-29
+Added Pin To Net: NetName=SCL0 Pin=MOD3-3
+Added Net: Name=SCL0
+Added Pin To Net: NetName=SCL1 Pin=J1-1
+Added Pin To Net: NetName=SCL1 Pin=MOD1-6
+Added Net: Name=SCL1
+Added Pin To Net: NetName=SDA0 Pin=MOD1-26
+Added Pin To Net: NetName=SDA0 Pin=MOD3-4
+Added Net: Name=SDA0
+Added Pin To Net: NetName=SDA1 Pin=J1-2
+Added Pin To Net: NetName=SDA1 Pin=MOD1-7
+Added Net: Name=SDA1

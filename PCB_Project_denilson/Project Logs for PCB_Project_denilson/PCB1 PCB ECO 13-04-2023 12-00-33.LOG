@@ -1,0 +1,114 @@
+Added Component: Designator=J2(HDR_M_1X10)
+Add component (AddParameter): Name = "Huella"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=J3(HDR_M_1X10)
+Add component (AddParameter): Name = "Huella"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=J4(HDR_M_1X5)
+Add component (AddParameter): Name = "Huella"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=J5(HDR_M_1X5)
+Add component (AddParameter): Name = "Huella"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL1 Pin=J2-6
+Added Pin To Net: NetName=SDA1 Pin=J2-7
+Added Pin To Net: NetName=SCL0 Pin=J3-2
+Added Pin To Net: NetName=SDA0 Pin=J3-5
+Added Pin To Net: NetName=TX Pin=J3-9
+Added Pin To Net: NetName=RX Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=+5v Pin=J4-5
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=MOD1-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=MOD1-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=MOD1-3
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=MOD1-4
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=MOD1-5
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_8 Pin=J2-8
+Added Pin To Net: NetName=NetJ2_8 Pin=MOD1-8
+Added Net: Name=NetJ2_8
+Added Pin To Net: NetName=NetJ2_9 Pin=J2-9
+Added Pin To Net: NetName=NetJ2_9 Pin=MOD1-9
+Added Net: Name=NetJ2_9
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Pin To Net: NetName=NetJ2_10 Pin=MOD1-10
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=MOD1-30
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=MOD1-28
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=MOD1-27
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=MOD1-25
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_7 Pin=J3-7
+Added Pin To Net: NetName=NetJ3_7 Pin=MOD1-24
+Added Net: Name=NetJ3_7
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-8
+Added Pin To Net: NetName=NetJ3_8 Pin=MOD1-23
+Added Net: Name=NetJ3_8
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=MOD1-11
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=MOD1-12
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=MOD1-13
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=MOD1-20
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=MOD1-19
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=MOD1-18
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_4 Pin=MOD1-17
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ5_5 Pin=J5-5
+Added Pin To Net: NetName=NetJ5_5 Pin=MOD1-16
+Added Net: Name=NetJ5_5
+Added Member To Class: ClassName=Sheet1 Member=Component J2 HDR1X10
+Added Member To Class: ClassName=Sheet1 Member=Component J3 HDR1X10
+Added Member To Class: ClassName=Sheet1 Member=Component J4 HDR1X5
+Added Member To Class: ClassName=Sheet1 Member=Component J5 HDR1X5

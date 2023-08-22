@@ -1,0 +1,14 @@
+Added Component: Designator=J?(MSTBF_4)
+Add component (AddParameter): Name = "Huella"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=SCL Pin=J?-3
+Added Pin To Net: NetName=SDA Pin=J?-4
+Added Member To Class: ClassName=Sheet1 Member=Component J? ?

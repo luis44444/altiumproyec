@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=MOD2-3
+Removed Pin From Net: NetName=+5v Pin=MOD2-4
+Removed Pin From Net: NetName=TX Pin=MOD2-6
+Removed Pin From Net: NetName=RX Pin=MOD2-7
+Removed Pin From Net: NetName=+5v Pin=MOD3-1
+Removed Pin From Net: NetName=GND Pin=MOD3-2
+Removed Pin From Net: NetName=SCL0 Pin=MOD3-3
+Removed Pin From Net: NetName=SDA0 Pin=MOD3-4
+Removed Member From Class: ClassName=Sheet1 Member=MOD2
+Removed Member From Class: ClassName=Sheet1 Member=MOD3
+Added Component: Designator=J6(MSTBF_2)
+Add component (AddParameter): Name = "Huella"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=J7(MSTBF_2)
+Add component (AddParameter): Name = "Huella"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=J8(MSTBF_2)
+Add component (AddParameter): Name = "Huella"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link_Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX Pin=J6-1
+Added Pin To Net: NetName=RX Pin=J6-2
+Added Pin To Net: NetName=SCL0 Pin=J7-1
+Added Pin To Net: NetName=SDA0 Pin=J7-2
+Added Pin To Net: NetName=+5v Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Member To Class: ClassName=Sheet1 Member=Component J6 ?
+Added Member To Class: ClassName=Sheet1 Member=Component J7 ?
+Added Member To Class: ClassName=Sheet1 Member=Component J8 ?
+Added Member To Class: ClassName=Sheet1 Member=Component MOD1 ESP32 DEVKITV1
